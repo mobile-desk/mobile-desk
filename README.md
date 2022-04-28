@@ -7,7 +7,7 @@ or
 
 or
 
-https://praiseobasi.blogspot.com/
+https://obasip901.wixsite.com/mobile/
 
 <!---
 mobile-desk/mobile-desk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
