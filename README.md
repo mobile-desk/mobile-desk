@@ -5,6 +5,16 @@
 - 📫 How to reach my email obasip901@hotmail.com 
 or
 
+Please check out my socials:
+🔗Instagram: https://www.instagram.com/_._praiz/
+🔗Facebook: https://web.facebook.com/praiztech/
+🔗Twitter: https://mobile.twitter.com/chibudom_o...
+🔗LinkedIn: https://www.linkedin.com/in/praise-ob...
+🔗GitHub: https://github.com/mobile-desk
+🔗Youtube: https://www.youtube.com/c/Chibudomobasi
+🔗TikTok: https://www.tiktok.com/@mobile.desk
+🔗Website: https://praiz.tech.blog/
+
 or
 
 https://praiz.tech.blog/
