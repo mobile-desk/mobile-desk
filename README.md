@@ -18,7 +18,7 @@ Please check out my socials:
 
 or
 
-https://praiz.tech.blog/
+[My Portfolio](https://journeygenius.pythonanywhere.com/)
 
 <!---
 mobile-desk/mobile-desk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
