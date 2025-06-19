@@ -56,7 +56,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://github.com/mobile-desk/mobile-desk/blob/main/icons8-flask-50.png" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
@@ -87,21 +87,6 @@
 
 ---
 
-## 📝 Latest Blog Post
 
-> **Note:** I couldn’t fetch the feed directly within GitHub. To include your most recent post automatically, consider embedding it using a plugin like `github-readme-rss` or using GitHub Actions.  
->
-> **Example manual snippet:**
-> - *June 18, 2025* — **How AI is Revolutionizing CRM Systems.** A deep dive into the latest integrations of AI agents in CRM workflows. [Read more](https://techinnovom.tech.blog/your-latest-post-url)
 
----
 
-Everything should now load correctly:
-
-- ✅ Banner updated
-- ✅ Flask icon fixed
-- ✅ GitHub streak working
-- ⚠️ Blog snippet updated manually with guidelines for auto-fetch tools
-
-Let me know if you'd like help setting up automatic blog post fetching or any further tweaks!
-::contentReference[oaicite:0]{index=0}
