@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praise Obasi</h1>
 <h3 align="center">A passionate Python Developer and Data Scientist from Nigeria</h3>
+<h3 align="center">Founder of <a href="https://sosvault.com.ng/"> SOS Vault </a> </h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mobile-desk/mobile-desk/main/ChatGPT%20Image%20Jun%2019%2C%202025%2C%2008_56_51%20PM.png" alt="Profile Banner" width="100%" />
