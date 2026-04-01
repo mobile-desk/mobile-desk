@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **React**
 - 🤝 I’m looking for help with **Machine Learning**
 - 💬 Ask me about **Python**
-- 👨‍💻 All of my projects are available at: [https://mobile-desk.github.io/portfolio-html/](https://mobile-desk.github.io/portfolio-html/)
+- 👨‍💻 All of my projects are available at: [https://techinnovom.com.ng/](https://techinnovom.com.ng/)
 - 📝 I regularly write articles on: [https://techinnovom.tech.blog/](https://techinnovom.tech.blog/)
 - 📫 How to reach me: **obasip901@hotmail.com**
 - ⚡ Fun fact: **I am a female developer**
